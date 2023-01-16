@@ -77,7 +77,7 @@ function Indeex() {
             >
               Add new item
             </Button>
-            <Link to={"/table"} style={{ textDecoration: "none" }}>
+            <Link to={"/"} style={{ textDecoration: "none" }}>
               <Button
                 variant="outlined"
                 style={{ marginTop: "2rem", marginLeft: "1rem" }}

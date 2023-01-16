@@ -16,7 +16,7 @@ function App() {
         <NavbarBrand href="/" style={{ color: "white", marginLeft: "2rem" }}>Admin Panel</NavbarBrand>
         <Nav className="me-auto" navbar style={{ flexDirection: "row" }}>
           <NavItem>
-            <NavLink href="/table" style={{ color: "white", marginLeft: "2rem" }}>Table</NavLink>
+            <NavLink href="/" style={{ color: "white", marginLeft: "2rem" }}>Table</NavLink>
           </NavItem>
           <NavItem>
             <NavLink href="/add" style={{ color: "white", marginLeft: "1.5rem" }}>

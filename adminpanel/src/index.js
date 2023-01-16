@@ -22,7 +22,7 @@ const router = createBrowserRouter([
         element: <Add />
       },
       {
-        path: "/table",
+        path: "/",
         element: <Table />
       },
       {

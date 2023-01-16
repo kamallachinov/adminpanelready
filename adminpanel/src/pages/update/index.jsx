@@ -41,7 +41,7 @@ function Index() {
       setCountry("");
       setTimeout(
         () => alert("Data updated succesfully!"),
-        navigate(`/table`),
+        navigate(`/`),
         1000
       );
     }

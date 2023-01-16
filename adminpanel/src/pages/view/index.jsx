@@ -44,7 +44,7 @@ function Index() {
             placeholder="Address,country"
             value={datas.address?.country}
           />
-          <Link to={"/table"}>
+          <Link to={"/"}>
             <Button variant="text">Go Table</Button>
           </Link>
         </Form>
